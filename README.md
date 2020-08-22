@@ -1,1 +1,1 @@
-# cloud-config-server
+# Application configuration
